@@ -17,8 +17,4 @@ Pase lo que pase, y aunque el mundo cambie, mi lugar es contigo. Siempre y para 
 
 **[luma](https://zolena.netlify.app/)**
 
-Una historia hecha para ti.
-
----
-
-Para las dos. Siempre.
+Una historia hecha para ti. Para las dos. Siempre.
